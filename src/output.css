@@ -269,6 +269,9 @@
   .mt-\[120px\] {
     margin-top: 120px;
   }
+  .mt-\[150px\] {
+    margin-top: 150px;
+  }
   .mt-\[200px\] {
     margin-top: 200px;
   }
@@ -341,6 +344,9 @@
   .ml-\[300px\] {
     margin-left: 300px;
   }
+  .ml-\[500px\] {
+    margin-left: 500px;
+  }
   .flex {
     display: flex;
   }
@@ -353,6 +359,9 @@
   .h-\[4\] {
     height: 4;
   }
+  .h-\[50px\] {
+    height: 50px;
+  }
   .h-\[54px\] {
     height: 54px;
   }
@@ -362,11 +371,20 @@
   .h-\[64px\] {
     height: 64px;
   }
+  .h-\[90px\] {
+    height: 90px;
+  }
   .h-\[440px\] {
     height: 440px;
   }
+  .w-\[30px\] {
+    width: 30px;
+  }
   .w-\[90\%\] {
     width: 90%;
+  }
+  .w-\[100\%\] {
+    width: 100%;
   }
   .w-\[162px\] {
     width: 162px;
@@ -401,6 +419,9 @@
   .w-\[222px\] {
     width: 222px;
   }
+  .w-\[230px\] {
+    width: 230px;
+  }
   .w-\[240px\] {
     width: 240px;
   }
@@ -409,6 +430,9 @@
   }
   .w-\[295px\] {
     width: 295px;
+  }
+  .w-\[300px\] {
+    width: 300px;
   }
   .w-\[360px\] {
     width: 360px;
@@ -427,6 +451,9 @@
   }
   .max-w-\[300px\] {
     max-width: 300px;
+  }
+  .max-w-\[1000px\] {
+    max-width: 1000px;
   }
   .max-w-\[1200px\] {
     max-width: 1200px;
@@ -470,6 +497,9 @@
   .gap-\[40px\] {
     gap: 40px;
   }
+  .gap-\[70px\] {
+    gap: 70px;
+  }
   .rounded-2xl {
     border-radius: var(--radius-2xl);
   }
@@ -483,9 +513,31 @@
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
+  .border-4 {
+    border-style: var(--tw-border-style);
+    border-width: 4px;
+  }
   .border-\[2px\] {
     border-style: var(--tw-border-style);
     border-width: 2px;
+  }
+  .border-b {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 1px;
+  }
+  .border-b-2 {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 2px;
+  }
+  .border-b-4 {
+    border-bottom-style: var(--tw-border-style);
+    border-bottom-width: 4px;
+  }
+  .border-\[bl\] {
+    border-color: bl;
+  }
+  .border-\[black\] {
+    border-color: black;
   }
   .bg-\[\#A95094\] {
     background-color: #A95094;
@@ -510,6 +562,9 @@
   }
   .text-\[20px\] {
     font-size: 20px;
+  }
+  .text-\[24px\] {
+    font-size: 24px;
   }
   .text-\[30px\] {
     font-size: 30px;
@@ -568,6 +623,12 @@
   }
   .text-\[\#FFC464\] {
     color: #FFC464;
+  }
+  .text-\[\#ac4394\] {
+    color: #ac4394;
+  }
+  .text-\[\#b4469a\] {
+    color: #b4469a;
   }
   .text-\[A95094\] {
     color: A95094;
